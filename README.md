@@ -5,4 +5,4 @@
 > zikin2pub@gmail.com
 
 ---
-LICENSE: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
+LICENSE: [MIT License](https://github.com/foryou57/foru-page/blob/main/LICENSE)
