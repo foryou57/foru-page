@@ -2,4 +2,4 @@
 
 > HTML file of again.foru.run &amp; foryou.run
 > 
-> tongzikin@gmail.com
+> zikin2pub@gmail.com
