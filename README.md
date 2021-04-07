@@ -2,7 +2,7 @@
 
 > HTML file of again.foru.run &amp; foryou.run
 > 
-> zikin2pub@gmail.com
+> foru57@protonmail.com
 
 ---
 LICENSE: [MIT License](https://github.com/foryou57/foru-page/blob/main/LICENSE)
