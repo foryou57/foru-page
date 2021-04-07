@@ -2,7 +2,7 @@
 
 > HTML file of again.foru.run &amp; foryou.run
 > 
-> foru57@protonmail.com
+> tang@zhiqian.email
 
 ---
 LICENSE: [MIT License](https://github.com/foryou57/foru-page/blob/main/LICENSE)
